@@ -76,8 +76,4 @@ BEGIN
     FILT_DDMMYYY_6    "dd/MM/yyyy"
 END
 
-// SOURCE_FILE C:/Path/to/my/source/file/example-source-javascript/strings.js
-STRINGTABLE
-BEGIN
-    STRI_ANDTHIS_1    "&and this "
-END
+
