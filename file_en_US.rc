@@ -80,6 +80,4 @@ END
 STRINGTABLE
 BEGIN
     STRI_ANDTHIS_1    "&and this "
-    STRI_ISHOULD_2    "I should be detected because not in ignore next line comment"
-    STRI_ISHOULD_3    "I should be detected because outside ignore start/end block"
 END
